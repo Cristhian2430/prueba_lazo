@@ -1,0 +1,10 @@
+pandas
+plotly
+seaborn
+matplotlib
+openpyxl
+streamlit
+streamlit-authenticator
+google-auth
+google-cloud-storage
+python-dotenv
